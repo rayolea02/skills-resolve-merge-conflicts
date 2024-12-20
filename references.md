@@ -1,1 +1,1 @@
-Test conflict.
+This is a sample for resolving the merge conflict. 😈
